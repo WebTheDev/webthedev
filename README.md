@@ -12,7 +12,7 @@ Hi there! My name is Web! I'm a senior in high school who loves to chat, game, a
 
 [![DOD Badge](https://img.shields.io/badge/TEAM-DEVING%20ON%20DISCORD-17a6ec?style=for-the-badge)](https://github.com/WebTheDev)
 
-<img align="right" height="215" width="325" alt="" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif" />
+<img align="right" height="215" width="325" alt="" src="https://i.imgur.com/s99cKO8.gif" />
 
 
 ### Some Highlights:
