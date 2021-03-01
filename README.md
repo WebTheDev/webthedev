@@ -1,4 +1,4 @@
-## Hey 👋, I'm [Web!](https://github.com/WebTheDev/)
+## Hello!, I'm [Web!](https://github.com/WebTheDev/)
 
 <img align="right" height="60" width="60" alt="" src="https://media.discordapp.net/attachments/688500638996234302/813894009889226782/logo.png?width=676&height=676" />
 
@@ -49,6 +49,6 @@ Hi there! My name is Web! I'm a senior in high school who loves to chat, game, a
 
 ---
 
-<h3 align=center>If you would like to help support what I do, click here for my ![paypal link!](https://paypal.me/webthedev)</h3>
+<h3 align=center>If you would like to help support what I do, click here for my <a href="https://paypal.me/webthedev">paypal link!</h3>
 
 ---
