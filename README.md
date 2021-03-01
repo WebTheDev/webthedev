@@ -49,6 +49,6 @@ Hi there! My name is Web! I'm a senior in high school who loves to chat, game, a
 
 ---
 
-<h3 align=center>If you would like to help support what I do, click here for my <a href="https://paypal.me/webthedev">paypal link!</h3>
+<h3 align=center>If you would like to help support what I do, click here for my <a href="https://paypal.me/websdevelopment">paypal link!</h3>
 
 ---
