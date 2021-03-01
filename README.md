@@ -5,7 +5,7 @@
 [![Discord Badge](https://img.shields.io/badge/-Discord-0e76a8?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/kejhHFrA9t)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-ffffff?style=flat-square&logo=Github&logoColor=black)](https://github.com/webthedev)
 
-### Welcome to my github repository! I'm glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=nat2k15&label=Views&color=red&style=plastic)
+### Welcome to my github repository! I'm glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=webthedev&label=Views&color=red&style=plastic)
 
 Hi there! My name is Web! I'm a senior in high school who loves to chat, game, and most importantly DEVELOP! I've been developing discord bots for the past two years in the private sector for developer discords like Reb's Designs and Bagged Custom's. I code all of my bots in Python since that's the language that I'm most familiar with and not a lot of other developers use python so I wanted to standout!
 
