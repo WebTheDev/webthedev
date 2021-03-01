@@ -22,7 +22,7 @@ Hi there! My name is Web! I'm a senior in high school who loves to chat, game, a
 
 ### Languages and Tools:
 
-![Python](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
