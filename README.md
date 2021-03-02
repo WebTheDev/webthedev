@@ -45,7 +45,7 @@ Hi there! My name is Web! I'm a senior in high school who loves to chat, game, a
 - Gaming PC: Ryzen 5 2600, RX580 8GB, 16GB of RAM
 - Browser: Chrome
 - Code Editor: VSCode 
-- Keep posted in my discord: [Discord](https://discord.gg/kejhHFrA9t)
+- Stay posted in my [Discord!](https://discord.gg/kejhHFrA9t)
 
 ---
 
