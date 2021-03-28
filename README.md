@@ -38,7 +38,7 @@ Hi there! My name is Web! I'm a senior in high school who loves to chat, game, a
 ---
 
 ### 🖥️ Bot Hosting:
-Are you in need of a place to host your discord bot or a bot in my public repositories? Then look no further! I offer bot hosting services for all different kinds of bots for 2 dollars a month! Join my discord for more infomation! Specs are...
+Are you in need of a place to host your discord bot or a bot in my [public repositories](https://github.com/WebTheDev?tab=repositories)? Then look no further! I offer bot hosting services for all different kinds of bots for 2 dollars a month! Join my [discord](https://discord.gg/kejhHFrA9t) for more infomation! Specs are...
 - 10% Cpu Utilization
 - Ram: 256MB
 - Storage: 1024 MB 
