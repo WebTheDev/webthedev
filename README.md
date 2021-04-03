@@ -51,7 +51,7 @@ Are you in need of a place to host your discord bot or a bot in my [public repos
 ### ⚙️ My Resources & Tools:
 
 - OS: Windows 10 / Linux
-- SERVER: Linux based, self-hosted
+- Server: Linux based, self-hosted
 - Laptop: DELL Inspiron 3000
 - Gaming PC: Ryzen 5 2600, RX580 8GB, 16GB of RAM
 - Browser: Chrome
