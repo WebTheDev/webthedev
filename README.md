@@ -17,6 +17,7 @@ Hi there! My name is Web! I'm a senior in high school who loves to chat, game, a
 
 ### Some Highlights:
 
+- 👾 &nbsp; [ServerStatsBot](https://github.com/WebTheDev/serverstatsbot)
 - 👾 &nbsp; [Custom Discord Bots](https://discord.gg/kejhHFrA9t)
 
 
