@@ -1,6 +1,6 @@
 ## Hello!, I'm [Web!](https://github.com/WebTheDev/)
 
-<img align="right" height="60" width="60" alt="" src="https://media.discordapp.net/attachments/822258983544029194/822680431534932009/Comp_93.gif" />
+<img align="right" height="128" width="128" alt="" src="https://media.discordapp.net/attachments/822258983544029194/822680431534932009/Comp_93.gif" />
 
 [![Discord Badge](https://img.shields.io/badge/-Discord-0e76a8?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/kejhHFrA9t)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-ffffff?style=flat-square&logo=Github&logoColor=black)](https://github.com/webthedev)
