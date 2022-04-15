@@ -22,7 +22,7 @@ Hi there! My name is Web! I'm a freshman in college who loves to chat, game, and
 - 👾 &nbsp; [Custom Discord Bots](https://discord.gg/kejhHFrA9t)
 
 
-### Languages and Tools:
+### Languages:
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
