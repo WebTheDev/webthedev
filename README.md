@@ -25,7 +25,6 @@ Hi there! My name is Web! I'm a freshman in college who loves to chat, game, and
 ### Languages:
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B&)&nbsp;
 
