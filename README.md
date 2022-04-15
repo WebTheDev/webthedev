@@ -5,9 +5,9 @@
 [![Discord Badge](https://img.shields.io/badge/-Discord-0e76a8?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/kejhHFrA9t)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-ffffff?style=flat-square&logo=Github&logoColor=black)](https://github.com/webthedev)
 
-### Welcome to my github repository! I'm glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=webthedev&label=Views&color=blue&style=plastic)
+### Welcome to my github repository! &nbsp; ![](https://komarev.com/ghpvc/?username=webthedev&label=Views&color=blue&style=plastic)
 
-Hi there! My name is Web! I'm a senior in high school who loves to chat, game, and most importantly DEVELOP! I've been developing discord bots for the past two years in the private sector for GTA5 developer discords like Reb's Designs and Bagged Custom's. I code all of my bots in Python since that's the language that I'm most familiar with and not a lot of other developers use python so I wanted to standout!
+Hi there! My name is Web! I'm a freshman in college who loves to chat, game, and most importantly DEVELOP! I've been developing discord bots for the past two years with knowledge of Python for the past 4 years. I've been developing bots in the private sector for GTA5 developer discords like Reb's Designs and Bagged Custom's! I code all of my bots in Python since that's the language that I'm most familiar with and not a lot of other developers I know use python so I wanted to standout!
 
 
 [![DOD Badge](https://img.shields.io/badge/TEAM-DEVING%20ON%20DISCORD-17a6ec?style=for-the-badge)](https://github.com/WebTheDev)
@@ -40,7 +40,7 @@ Hi there! My name is Web! I'm a senior in high school who loves to chat, game, a
 ---
 
 ### 🖥️ Bot Hosting:
-Are you in need of a place to host your discord bot or a bot in my [public repositories](https://github.com/WebTheDev?tab=repositories)? Then look no further! I offer bot hosting services for all different kinds of bots for 2 dollars a month! Join my [discord](https://discord.gg/kejhHFrA9t) for more infomation! Specs are...
+Are you in need of a place to host your discord bot or a bot in my [public repositories](https://github.com/WebTheDev?tab=repositories)? Then look no further! I offer bot hosting services for all different kinds of bots for 2 dollars a month! Join the Reb's Designs [discord](https://discord.gg/clappedmods) for more infomation! Specs are...
 - 250% Cpu Utilization
 - Ram: 256MB
 - Storage: 1024 MB 
@@ -56,8 +56,7 @@ Are you in need of a place to host your discord bot or a bot in my [public repos
 - Server: Linux based, self-hosted
 - Laptop: DELL Inspiron 3000
 - Gaming PC: i9-12900k, RTX3080 FTW3, 32GB of RAM
-- Browser: Chrome
-- Code Editor: VSCode 
+- IDE: VSCode, Eclipse
 - Stay posted in my [Discord!](https://discord.gg/kejhHFrA9t)
 
 ---
