@@ -53,8 +53,7 @@ Are you in need of a place to host your discord bot or a bot in my [public repos
 ### ⚙️ My Resources & Tools:
 
 - OS: Windows 10 / Linux
-- Server: Linux based, self-hosted
-- Laptop: DELL Inspiron 3000
+- Laptop: ASUS Zephyrus M16
 - Gaming PC: i9-12900k, RTX3080 FTW3, 32GB of RAM
 - IDE: VSCode, Eclipse
 - Stay posted in my [Discord!](https://discord.gg/kejhHFrA9t)
