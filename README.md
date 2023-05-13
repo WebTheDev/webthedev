@@ -60,6 +60,6 @@ Are you in need of a place to host your discord bot or a bot in my [public repos
 
 ---
 
-<h3 align=center>Click here<a href="https://paypal.me/websdevelopment"> to buy me a ice cream cone!🍦 Any support is appreciated.</h3>
+<h3 align=center><a href="https://paypal.me/websdevelopment">Click here</a> to buy me a ice cream cone!🍦 Any support is appreciated.</h3>
 
 ---
