@@ -40,7 +40,7 @@ Hi there! My name is Web! I'm a freshman in college who loves to chat, game, and
 ---
 
 ### 🖥️ Bot Hosting:
-Are you in need of a place to host your discord bot or a bot in my [public repositories](https://github.com/WebTheDev?tab=repositories)? Then look no further! I offer bot hosting services for all different kinds of bots for only a dollar a month! [Click here](https://hosting.rebsdesigns.com/) for more info!
+Are you in need of a place to host your discord bot or a bot in my [public repositories](https://github.com/WebTheDev?tab=repositories)? Then look no further! I offer bot hosting services for all different kinds of bots for only a dollar a month! [Click here](https://hosting.rebsdesigns.com/index.php?rp=/store/discord-bot-hosting) for more info!
 - 250% Cpu Utilization
 - Ram: 256MB
 - Storage: 1024 MB 
@@ -60,6 +60,6 @@ Are you in need of a place to host your discord bot or a bot in my [public repos
 
 ---
 
-<h3 align=center>If you would like to help support what I do, click here for my <a href="https://paypal.me/websdevelopment">paypal link!</h3>
+<h3 align=center>Click here<a href="https://paypal.me/websdevelopment"> to buy me a ice cream cone!🍦 Any support is appreciated.</h3>
 
 ---
