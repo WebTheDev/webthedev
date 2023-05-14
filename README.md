@@ -17,9 +17,9 @@ Hi there! My name is Web! I'm a freshman in college who loves to chat, game, and
 
 ### Some Highlights:
 
+- 👾 &nbsp; [TicketBot]([https://discord.gg/kejhHFrA9t](https://github.com/WebTheDev/TicketBot))
 - 👾 &nbsp; [ServerStatsBot](https://github.com/WebTheDev/serverstatsbot)
 - 👾 &nbsp; [Anti-RaidBot](https://github.com/WebTheDev/Anti-RaidBot)
-- 👾 &nbsp; [Custom Discord Bots](https://discord.gg/kejhHFrA9t)
 
 
 ### Languages:
