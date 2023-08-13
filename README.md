@@ -7,7 +7,7 @@
 
 ### Welcome to my github repository! &nbsp; ![](https://komarev.com/ghpvc/?username=webthedev&label=Views&color=blue&style=plastic)
 
-Hi there! My name is Web! I'm a freshman in college who loves to chat, game, and most importantly DEVELOP! I've been developing discord bots for the past two years with knowledge of Python for the past 4 years. I've been developing bots in the private sector for GTA5 developer discords like Reb's Designs and Bagged Custom's! I code all of my bots in Python since that's the language that I'm most familiar with and not a lot of other developers I know use python so I wanted to standout!
+Hi there! My name is Web! I'm a junior in college who loves to chat, game, and most importantly DEVELOP! I've been developing discord bots for the past two years with knowledge of Python for the past 4 years. I've been developing bots in the private sector for GTA5 developer discords like Reb's Designs and Bagged Custom's! I code all of my bots in Python since that's the language that I'm most familiar with and not a lot of other developers I know use python so I wanted to standout!
 
 
 [![DOD Badge](https://img.shields.io/badge/TEAM-DEVING%20ON%20DISCORD-17a6ec?style=for-the-badge)](https://github.com/WebTheDev)
